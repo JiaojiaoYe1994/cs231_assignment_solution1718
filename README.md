@@ -1,4 +1,4 @@
-CS231's Assignment Solutions 
+CS231n's Assignment Solutions 
 ==============================================
 
 Here is my solution for assignments of Stanford's lectures CS231n: Convolutional Neural Networks for Visual Recognition Spring 2017/2018. Currently I implemented PyTorch version for assignment 2 and assigment 3, tensorflow implementation comes soon!
